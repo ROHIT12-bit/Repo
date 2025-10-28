@@ -30,6 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
+pyrogram==2.0.106
 pyrofork==2.2.11
 python-dotenv
 python-magic
@@ -40,7 +41,7 @@ telegraph
 tenacity
 tgcrypto
 uv
-uvloop
+uvloop==0.17.0
 xattr
 yt-dlp[default,curl-cffi]
 pytz
